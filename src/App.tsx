@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import produce from 'immer'
+import { produce } from 'immer'
 import { Header as _Header } from './Header'
 import { Column } from './Column'
 import { DeleteDialog } from './DeleteDialog'
