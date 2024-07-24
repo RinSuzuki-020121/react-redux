@@ -24,7 +24,6 @@ function App() {
 
             <ColumnHeader>Doing</ColumnHeader>
 
-
             <Card>顔を洗う👐</Card>
             <Card>歯を磨く🦷</Card>
           </Column>
